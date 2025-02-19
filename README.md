@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on enhancing my skills
 - 🌱 I’m currently learning how to implement my knowledge on a draft project.
 - 👯 I’m looking to collaborate on aspiring devs with base knowledge in frontend and backend
-- 💬 Ask me about ...
 - 📫 How to reach me: dev.gergui@gmail.com
 
 <!--
