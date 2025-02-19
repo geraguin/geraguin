@@ -1,4 +1,4 @@
-## Ciao 👋
+## Ciao👋 mi chiamo gerald 
 
 - 🔭 I’m currently working on enhancing my skills
 - 🌱 I’m currently learning how to implement my knowledge on a draft project.
